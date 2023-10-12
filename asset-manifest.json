@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-hid/static/css/main.d76d4900.css",
+    "main.js": "/web-hid/static/js/main.23a39a5f.js",
+    "index.html": "/web-hid/index.html",
+    "main.d76d4900.css.map": "/web-hid/static/css/main.d76d4900.css.map",
+    "main.23a39a5f.js.map": "/web-hid/static/js/main.23a39a5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76d4900.css",
+    "static/js/main.23a39a5f.js"
+  ]
+}
